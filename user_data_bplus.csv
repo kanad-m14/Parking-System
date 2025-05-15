@@ -1,0 +1,2 @@
+Vehicle_Number,Owner_Name,Arrival_Date,Arrival_Time,Departure_Date,Departure_Time,Parking_Space_ID,Number_of_Parkings,Membership,Spent_Time,Total_Spent_Time,Parking_Amt,Total_Parking_Amt,Status
+MH14GP6004,Avinash,12/01/2025,12:30,-,-,25,1,0,0.00,0.00,0.00,0.00,1
